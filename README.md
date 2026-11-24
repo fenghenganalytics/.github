@@ -2,7 +2,7 @@
 
 **Air quality intelligence for under-resourced cities.**
 
-We build the data infrastructure that lets city governments in West Africa see, trust, and act on their own air quality data — sensor ingestion, satellite fusion, quality control, and public dashboards.
+We help resource-constrained city governments in less developed regions build data infrastructure that lets them see, trust, and act on their own air quality data — sensor ingestion, satellite fusion, quality control, and public dashboards — for more informed policy design and better public communication.
 
 ## What we do
 
