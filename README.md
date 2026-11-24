@@ -22,4 +22,4 @@ In partnership with **Freetown City Council (Sierra Leone)** — operating a 12-
 
 ## Contact
 
-→ [Website](https://fengheng.pages.dev) · [Insights](https://github.com/fenghenganalytics/freetown-aq-insights) · [Methodology](https://github.com/fenghenganalytics/aqdi-methodology)
+→ [Website](https://fengheng.net) · [Insights](https://github.com/fenghenganalytics/freetown-aq-insights) · [Methodology](https://github.com/fenghenganalytics/aqdi-methodology)
